@@ -1,0 +1,17 @@
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: rgb(121, 70, 34);
+}
+
+ul{
+    display: flex;
+    gap: 10px;
+    list-style-type: none;
+}
+
+.nav li a {
+    text-decoration: none;
+    color: rgb(121, 70, 34);
+}
