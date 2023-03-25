@@ -2,3 +2,27 @@
 body{
     font-family: sans-serif;
 }
+
+.common-form{
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+}
+
+.seller-auth{
+    text-align: center;
+}
+
+.form-input{
+    height: 30px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px solid rgb(121, 70, 34);
+}
+
+.form-button{
+    height: 30px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px solid rgb(121, 70, 34);
+}
